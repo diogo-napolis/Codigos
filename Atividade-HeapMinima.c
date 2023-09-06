@@ -1,9 +1,9 @@
-/*Este código em C implementa um programa que cria uma lista de números inteiros,constrói um heap mínimo a partir dessa lista e exibe tanto a lista quanto o heap mínimo resultante. 
- O código demonstra a construção de um heap mínimo a partir de diferentes tipos de listas (aleatória, crescente e decrescente) e exibe os resultados. 
- É uma implementação básica de estruturas de dados em C para demonstração educacional.
+/*Este cÃ³digo em C implementa um programa que cria uma lista de nÃºmeros inteiros,constrÃ³i um heap mÃ­nimo a partir dessa lista e exibe tanto a lista quanto o heap mÃ­nimo resultante. 
+ O cÃ³digo demonstra a construÃ§Ã£o de um heap mÃ­nimo a partir de diferentes tipos de listas (aleatÃ³ria, crescente e decrescente) e exibe os resultados. 
+ Ã‰ uma implementaÃ§Ã£o bÃ¡sica de estruturas de dados em C para demonstraÃ§Ã£o educacional.
  
- Este código foi feito no terceiro semestre em aula na disciplina de Estrutura de Dados Lineares 
- Diogo Filipe Pereira Lopes de Nápolis
+ Esta atividade foi feito no terceiro semestre em aula na disciplina de Estrutura de Dados Lineares 
+ 
 */
 
 #include <stdio.h>
